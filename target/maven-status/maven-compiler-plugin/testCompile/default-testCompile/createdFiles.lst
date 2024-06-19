@@ -1,0 +1,4 @@
+Steps\ApplicationHooks.class
+Steps\LoginSteps.class
+Steps\WindowsSteps.class
+TestRunner\MyTestRunner.class

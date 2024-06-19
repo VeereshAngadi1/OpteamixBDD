@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner.MyTestRunner
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.644 s - in TestRunner.MyTestRunner
